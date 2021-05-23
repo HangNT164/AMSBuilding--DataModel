@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T09:15:41.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="AS7_HHzYvHFri0Ie66GP" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-23T09:19:45.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="sZnlUdtn4fw1zLif2yWj" version="14.7.0" type="github">
   <diagram id="4Xkje-LANi92mTUS2wdg" name="Page-1">
     <mxGraphModel dx="1978" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1249,7 +1249,7 @@
         <mxCell id="JtIHTrhDvSGCgKmSVt4h-551" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="JtIHTrhDvSGCgKmSVt4h-550">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JtIHTrhDvSGCgKmSVt4h-552" value="card_card_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="JtIHTrhDvSGCgKmSVt4h-550">
+        <mxCell id="JtIHTrhDvSGCgKmSVt4h-552" value="vehicle_card_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="JtIHTrhDvSGCgKmSVt4h-550">
           <mxGeometry x="30" width="235" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JtIHTrhDvSGCgKmSVt4h-553" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JtIHTrhDvSGCgKmSVt4h-486">
