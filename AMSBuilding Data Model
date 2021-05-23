@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T09:14:05.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="p412-afZxbD4YZ39qcWU" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-23T09:14:31.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="zNygsMWziHHCpnLdxsxd" version="14.7.0" type="github">
   <diagram id="4Xkje-LANi92mTUS2wdg" name="Page-1">
     <mxGraphModel dx="1978" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -508,7 +508,7 @@
         <mxCell id="JtIHTrhDvSGCgKmSVt4h-211" value="deleted" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="JtIHTrhDvSGCgKmSVt4h-209">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JtIHTrhDvSGCgKmSVt4h-227" value="car_card" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="JtIHTrhDvSGCgKmSVt4h-227" value="vehicle_card" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="860" width="180" height="250" as="geometry" />
         </mxCell>
         <mxCell id="JtIHTrhDvSGCgKmSVt4h-228" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="JtIHTrhDvSGCgKmSVt4h-227">
